@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mcp-example": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "./server"
+      ],
+      "env": {}
+    }
+  }
+}
